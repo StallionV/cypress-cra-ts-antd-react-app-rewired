@@ -1,5 +1,5 @@
 import React from 'react'
-import { Layout, Menu, Breadcrumb } from 'antd'
+import { Layout, Menu, Breadcrumb } from 'antd/lib'
 import './App.less'
 const { Header, Content, Footer } = Layout
 

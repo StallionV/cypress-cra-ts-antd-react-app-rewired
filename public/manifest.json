@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "cypress-cra-ts-antd-react-app-rewired",
   "icons": [
     {
       "src": "favicon.ico",
