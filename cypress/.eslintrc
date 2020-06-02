@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "plugin:cypress/recommended", // Linting for cypress
+    "plugin:chai-friendly/recommended" //Chai compatibility]
+  ],
+  "ignorePatterns": ["reports/*"]
+}
