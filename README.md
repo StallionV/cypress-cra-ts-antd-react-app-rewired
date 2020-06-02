@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+This APP was created using CRA V3 and uses [Ant design](http://ant.design) along with it.
+Ant design needs a custom version [react-app-rewired](https://github.com/timarney/react-app-rewired/) to run on top of react-scripts.
+
+Typescript was added after project was initialized and not as part of CRA
+
+Cypress runs just fine.
+Needs proper config to run code coverage for cypress.
 
 ## Available Scripts
 
