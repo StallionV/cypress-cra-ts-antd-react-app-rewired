@@ -8,6 +8,11 @@ Typescript was added after project was initialized and not as part of CRA
 Cypress runs just fine.
 Config added to run code coverage for cypress.
 
+Resolved related issue
+Cypress: [#35](https://github.com/bahmutov/cra-ts-code-coverage-example/issues/35)
+
+React app rewired: [#461](https://github.com/timarney/react-app-rewired/issues/461)
+
 ## Available Scripts
 
 In the project directory, you can run:
