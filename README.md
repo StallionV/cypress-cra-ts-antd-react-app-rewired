@@ -6,7 +6,7 @@ Ant design needs a custom version [react-app-rewired](https://github.com/timarne
 Typescript was added after project was initialized and not as part of CRA
 
 Cypress runs just fine.
-Needs proper config to run code coverage for cypress.
+Config added to run code coverage for cypress.
 
 ## Available Scripts
 
@@ -20,9 +20,9 @@ Open [http://localhost:7000](http://localhost:7000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm run cypress`
+### `npm run dev`
 
-Launches Cypress testing
+Launches the app as well as kick start cypress in the backgroud. It will also run the coverage reports which can be found in the cypress/coverage directory
 
 ### `npm build`
 
